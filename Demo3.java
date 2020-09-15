@@ -1,1 +1,4 @@
-class Demo3 {}
+class Demo3 {
+Demo3(){
+}
+}
