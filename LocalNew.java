@@ -1,2 +1,5 @@
 class LocalNew {
+LocalNew() {
+}
+
 }
